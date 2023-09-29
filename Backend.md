@@ -1,0 +1,25 @@
+## technology stack
+---
+- [aiohttp documentation](https://docs.aiohttp.org/en/stable/index.html)
+- [asyncpg documentation](https://docs.aiohttp.org/en/stable/index.html)
+- [circuitbreaker](https://pypi.org/project/circuitbreaker/)
+- [uvloop](https://github.com/MagicStack/uvloop)
+- [oauthlib](https://oauthlib.readthedocs.io/en/latest/index.html)
+- [OIDC](https://openid.net/developers/how-connect-works/)
+- [RFC oauth2](https://datatracker.ietf.org/doc/html/rfc6749)
+- [cerberus](https://github.com/pyeve/cerberus)
+- [перехват трейсбеков](https://habr.com/ru/companies/wunderfund/articles/654991/)
+- [Black](https://black.readthedocs.io/en/stable/)
+- [poetry](https://python-poetry.org/)
+- [unittest](https://docs.python.org/3/library/unittest.html)
+- [mypy](https://mypy-lang.org/)
+- [pep8](https://pep8.org/)
+- [flake8](https://flake8.pycqa.org/en/latest/)
+- [argparse](https://docs.python.org/3/howto/argparse.html)
+---
+## tools
+---
+- [vscode](https://code.visualstudio.com/)
+- [Yandex tracker](https://tracker.yandex.ru/pages/my)
+- [gitflic](https://gitflic.ru/user/ashahov)
+---

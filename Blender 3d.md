@@ -1,0 +1,2 @@
+- [archipack](https://blender-addons.org/archipack-addon/)
+- [CAD](https://blender-archipack.gumroad.com/l/nQVcS)
