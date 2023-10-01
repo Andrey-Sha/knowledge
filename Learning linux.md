@@ -31,9 +31,13 @@
 - [otus course linux youtube](https://www.youtube.com/watch?v=yGi3-6TkC0w&list=PLfnFOImnyWRXkjd_At64ElFLBIM6EF1GV)
 - [ещё один канал по линуксу](https://www.youtube.com/@user-kl2yr1kj3e/videos)
 - [+2 linux channel](https://www.youtube.com/@newedusys/playlists)
+- [+3 linux channel](https://www.youtube.com/@LearnLinuxTV)
 ---
 
 ## Documents
 ---
 - [manual install debian](https://www.debian.org/releases/stable/installmanual)
 - [FHS](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
+- [Multi disks](https://tldp.org/HOWTO/Multi-Disk-HOWTO.html)
+- [RAID](https://tldp.org/HOWTO/Software-RAID-HOWTO.html)
+- [LVM](https://tldp.org/HOWTO/LVM-HOWTO/)
